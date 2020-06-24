@@ -1,5 +1,5 @@
 {
-    "name": "timelsass/wp-php-version-check",
+    "name": "boldgrid/wp-php-version-check",
     "description": "Composer package to verify that WordPress and PHP versions satisfy a minimum version requirement.",
     "license": "GPL2.0",
     "authors": [
